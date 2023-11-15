@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudInReact", "CrudInReact\CrudInReact.csproj", "{ACAB106C-22CE-46F1-BCD5-9134DC19BFC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAB106C-22CE-46F1-BCD5-9134DC19BFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAB106C-22CE-46F1-BCD5-9134DC19BFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAB106C-22CE-46F1-BCD5-9134DC19BFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAB106C-22CE-46F1-BCD5-9134DC19BFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B9EDC10-7C6B-4809-95F9-3FA897661F58}
+	EndGlobalSection
+EndGlobal
